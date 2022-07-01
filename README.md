@@ -3,7 +3,7 @@
 ### 🔖 Sobre
 Uma pequena function é capaz de fazer essa alteração na navegação, deixando-a mais fluída e otimizada.
 <br/>
-Veja aqui: 
+Veja aqui: https://felpsalvs.github.io/navegacao-fixa/
 <br/>
 24/30 <br/>
 https://JavaScript30.com 
